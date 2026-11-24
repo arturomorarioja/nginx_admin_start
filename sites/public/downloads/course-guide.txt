@@ -1,0 +1,8 @@
+CEDAR LEARNING | COURSE GUIDE
+
+Software Architecture Essentials: A practical introduction to architectural decisions.
+Software Quality Engineering: Testing strategies, confidence and risk.
+System Integration: Building dependable HTTP-based integrations.
+Web Performance: Diagnosing and improving real-world web experiences.
+
+Visit /courses/ to view the current catalogue and enrol.
